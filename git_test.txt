@@ -7,3 +7,4 @@ create a new branch
 create new branch1
 create feature
 create feature1
+switch to debug switch
