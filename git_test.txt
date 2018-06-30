@@ -8,3 +8,4 @@ create new branch1
 create feature
 create feature1
 switch to dev branch
+switch to newfeature branch
